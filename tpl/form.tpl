@@ -1,7 +1,7 @@
 <form action="{$formaction}" method="post">
     <div id="PasswordForm">
         <p><label for="accountname">Email Konto Name:</label>
-        <input type="text" name="accountname" id="accountname" placeholder="Dein Konto Name, inklusive konto prefix" required></p>
+        <input type="text" name="accountname" id="accountname" placeholder="Dein Konto Name, inklusive Konto Prefix" required></p>
         <p><label for="oldpass">Altes Passwort:</label>
         <input type="password" name="oldpass" id="oldpass" required></p>
         <p><label for="newpass">Neues Passwort:</label>
