@@ -8,6 +8,6 @@
         <input type="password" name="newpass" id="newpass" required></p>
         <p><label for="newpass2">Neues Passwort wiederholen:</label>
         <input type="password" name="newpass2" id="newpass2" required></p>
-        <p><input type="submit" name="submit" value="Change Password"></p>
+        <p><input type="submit" name="submit" value="Passwort wechseln"></p>
     </div>
 </form>
