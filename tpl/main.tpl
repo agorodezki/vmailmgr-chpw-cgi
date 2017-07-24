@@ -75,7 +75,7 @@
 </style>
 <body>
     <div id="Main">
-        <h1>Change Mailbox Password</h1>
+        <h1>Email Passwort Wechsle Dich</h1>
         {$main_content}
     </div>
 </body>
